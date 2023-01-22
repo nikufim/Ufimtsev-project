@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+  
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #515076;
+  }
+  
+
+  
+  .main-content {
+    width: 1110px;
+    padding: 10px 50px 30px 0;
+    margin: 0 0 0 750px;
+    width: 30%;
+
+  }
+  .content {
+    width: 1110px;
+    padding: 10px 50px 30px 0;
+    margin: 0 0 0 -650px;
+    width: 30%;
+
+  }
+  
+  
+
+  
+
